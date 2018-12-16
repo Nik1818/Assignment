@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/cdi-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/guava-10.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/maven-artifact-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/maven-model-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/maven-plugin-api-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/org.eclipse.sisu.inject-0.0.0.M5.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/org.eclipse.sisu.plexus-0.0.0.M5.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/org.springframework.transaction-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/plexus-classworlds-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/plexus-component-annotations-1.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/plexus-utils-3.0.17.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/sisu-guice-3.1.0-no_aop.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-aop-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-beans-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-context-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-core-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-expression-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-security-config-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-security-core-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-security-web-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-web-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/Amdocs_test/AssignmentProjectWithBasicAuthentication/JARS/spring-webmvc-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
